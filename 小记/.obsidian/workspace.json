@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "50ea8dfaee2d87bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba43c24d01393868",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "938c5de095e4e9ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "强化学习.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "强化学习"
+            }
+          },
+          {
+            "id": "79c38c0df640f5ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Idear.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Idear"
+            }
+          },
+          {
+            "id": "9d73bde34b853069",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "协议.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "协议"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7a8b6755465d3d9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b452aa382ecdcbbe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c8904bba88fe9f5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "85ffc853d0968476",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "cf906087e08d78bb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "fab491adc84e72d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "194129b7940acc8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9abe3eb74a3dac9c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "强化学习.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "强化学习 的反向链接列表"
+            }
+          },
+          {
+            "id": "273f4529fa078892",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "强化学习.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "强化学习 的出链列表"
+            }
+          },
+          {
+            "id": "e23539b9d872a125",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "27dce8f8539cfcf0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "协议.md"
+              },
+              "icon": "lucide-list",
+              "title": "协议 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "9d73bde34b853069",
+  "lastOpenFiles": [
+    "未命名",
+    "Idear.md",
+    "协议.md",
+    "强化学习.md",
+    "Pasted image 20241023175448.png",
+    "Pasted image 20241023162731.png",
+    "Pasted image 20241023162539.png",
+    "Pasted image 20241023162536 1.png",
+    "Pasted image 20241023162536.png",
+    "Pasted image 20241022221140.png",
+    "Pasted image 20241022220249.png",
+    "Pasted image 20241022215125.png",
+    "Pasted image 20241022214059.png",
+    "创建链接.md",
+    "欢迎.md"
+  ]
+}

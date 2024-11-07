@@ -1,0 +1,17 @@
+{
+  "Appearance-dark@@card-layout-open-dark": true,
+  "Appearance-dark@@theme-dark-style-select": "theme-dark-background-darker",
+  "Components@@CTA-BTN-enable": true,
+  "Components@@folder-font-bold": true,
+  "Components@@colorful-folder": true,
+  "Components@@outline-enhanced": true,
+  "Components@@setting-item-title-icon-remove": false,
+  "Components@@scrollbar-hide": false,
+  "Components@@restored-scrollbars": false,
+  "Appearance-light@@card-layout-open-light": false,
+  "Appearance-dark@@card-border-radius-dark": "10px",
+  "Appearance-dark@@card-shadow-dark": "\"\"",
+  "Editor@@h1-divider-on": true,
+  "Editor@@h2-divider-on": false,
+  "Editor@@text-align-justify": true
+}
