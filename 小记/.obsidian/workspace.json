@@ -25,28 +25,24 @@
             "id": "9d73bde34b853069",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "强化学习.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "强化学习"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           },
           {
-            "id": "dfe728ef4a6611f2",
+            "id": "b79bdb069d710e83",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "贪婪算法.md",
+                "file": "动态规划算法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "贪婪算法"
+              "title": "动态规划算法"
             }
           }
         ],
@@ -123,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "强化学习.md",
+                "file": "动态规划算法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "强化学习 的反向链接列表"
+              "title": "动态规划算法 的反向链接列表"
             }
           },
           {
@@ -142,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "强化学习.md",
+                "file": "动态规划算法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "强化学习 的出链列表"
+              "title": "动态规划算法 的出链列表"
             }
           },
           {
@@ -157,7 +153,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               },
               "icon": "lucide-tags",
               "title": "标签"
@@ -169,10 +165,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "贪婪算法.md"
+                "file": "动态规划算法.md"
               },
               "icon": "lucide-list",
-              "title": "贪婪算法 的大纲"
+              "title": "动态规划算法 的大纲"
             }
           }
         ],
@@ -180,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,10 +189,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "dfe728ef4a6611f2",
+  "active": "b79bdb069d710e83",
   "lastOpenFiles": [
     "强化学习.md",
+    "动态规划算法.md",
+    "Pasted image 20241108155254.png",
     "贪婪算法.md",
+    "Pasted image 20241108154951.png",
+    "Pasted image 20241108154720.png",
     "协议.md",
     "未命名",
     "Idear.md",
@@ -206,8 +207,6 @@
     "Pasted image 20241023162536.png",
     "Pasted image 20241022221140.png",
     "Pasted image 20241022220249.png",
-    "Pasted image 20241022215125.png",
-    "Pasted image 20241022214059.png",
     "创建链接.md",
     "欢迎.md"
   ]
